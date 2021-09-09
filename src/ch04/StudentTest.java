@@ -3,7 +3,7 @@ package ch04;
 public class StudentTest {
     public static void main(String[] args) {
 
-        Student studentLee = new Student();
+        Student studentLee = new Student(); // 자바에서는 객체를 사용할 때 생성자를 사용해야한다.( new Student() )
         studentLee.studentID = 12345;
 //        studentLee.setStudentName("Jung");
         studentLee.studentName = "Lee";
