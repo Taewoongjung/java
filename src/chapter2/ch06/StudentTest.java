@@ -1,4 +1,4 @@
-package ch06;
+package chapter2.ch06;
 
 public class StudentTest { // Object를 가져다 쓰는 코드를 클라이언트 코드라고 한다.
     public static void main(String[] args) {

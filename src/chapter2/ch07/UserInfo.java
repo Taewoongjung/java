@@ -1,4 +1,4 @@
-package ch07;
+package chapter2.ch07;
 
 public class UserInfo {
     public String userId;
