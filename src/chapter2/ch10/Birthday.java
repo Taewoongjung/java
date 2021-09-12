@@ -1,4 +1,4 @@
-package ch10;
+package chapter2.ch10;
 
 public class Birthday {
 

@@ -1,4 +1,4 @@
-package ch11;
+package chapter2.ch11;
 
 public class MakeReport {
     StringBuffer buffer = new StringBuffer();

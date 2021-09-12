@@ -1,4 +1,4 @@
-package ch12;
+package chapter2.ch12;
 
 public class Person {
 

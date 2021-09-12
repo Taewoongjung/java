@@ -1,4 +1,4 @@
-package ch08;
+package chapter2.ch08;
 
 public class Order {
     public String orderNumber;
