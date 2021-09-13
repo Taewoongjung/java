@@ -1,4 +1,4 @@
-package ch16;
+package chapter2.ch16;
 
 public class Employee {
 

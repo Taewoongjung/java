@@ -1,4 +1,4 @@
-package ch20;
+package chapter2.ch20;
 
 public class ArrayTest2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch19;
+package chapter2.ch19;
 
 public class Car {
 

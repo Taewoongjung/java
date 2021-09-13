@@ -1,4 +1,4 @@
-package ch19;
+package chapter2.ch19;
 
 public class CarFactory {
     private static CarFactory instance = new CarFactory();

@@ -1,4 +1,4 @@
-package ch15;
+package chapter2.ch15;
 
 public class Texi {
     int passengerCount;
