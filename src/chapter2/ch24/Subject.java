@@ -1,4 +1,4 @@
-package ch24;
+package chapter2.ch24;
 
 public class Subject {
     private String name;

@@ -1,6 +1,6 @@
-package ch23;
+package chapter2.ch23;
 
-import ch21.Book;
+import chapter2.ch21.Book;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package ch21;
+package chapter2.ch21;
 
 public class ObjectCopyTest {
     public static void main(String[] args) {
