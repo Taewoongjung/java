@@ -1,6 +1,6 @@
-package ch13.domain.userinfo.dao;
+package chapter3.ch13.domain.userinfo.dao;
 
-import ch13.domain.userinfo.UserInfo;
+import chapter3.ch13.domain.userinfo.UserInfo;
 
 public interface UserInfoDao {
 

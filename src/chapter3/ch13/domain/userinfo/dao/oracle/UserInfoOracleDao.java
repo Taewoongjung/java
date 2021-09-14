@@ -1,9 +1,9 @@
-package ch13.domain.userinfo.dao.mysql;
+package chapter3.ch13.domain.userinfo.dao.oracle;
 
-import ch13.domain.userinfo.UserInfo;
-import ch13.domain.userinfo.dao.UserInfoDao;
+import chapter3.ch13.domain.userinfo.UserInfo;
+import chapter3.ch13.domain.userinfo.dao.UserInfoDao;
 
-public class UserInfoMySqlDao implements UserInfoDao {
+public class UserInfoOracleDao implements UserInfoDao {
     @Override
     public void insertUserInfo(UserInfo userInfo) {
         System.out.println("Insert into MySQL DB userID = " + userInfo.getUserId());
@@ -16,6 +16,6 @@ public class UserInfoMySqlDao implements UserInfoDao {
 
     @Override
     public void deleteUserInfo(UserInfo userInfo) {
-        System.out.println("Delete from MySQL DB userID = " + userInfo.getUserId());
+        System.out.println("Delete into MySQL DB userID = " + userInfo.getUserId());
     }
 }

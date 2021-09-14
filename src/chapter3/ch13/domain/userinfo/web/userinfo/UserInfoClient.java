@@ -1,9 +1,9 @@
-package ch13.domain.userinfo.web.userinfo;
+package chapter3.ch13.domain.userinfo.web.userinfo;
 
-import ch13.domain.userinfo.UserInfo;
-import ch13.domain.userinfo.dao.UserInfoDao;
-import ch13.domain.userinfo.dao.mysql.UserInfoMySqlDao;
-import ch13.domain.userinfo.dao.oracle.UserInfoOracleDao;
+import chapter3.ch13.domain.userinfo.UserInfo;
+import chapter3.ch13.domain.userinfo.dao.UserInfoDao;
+import chapter3.ch13.domain.userinfo.dao.mysql.UserInfoMySqlDao;
+import chapter3.ch13.domain.userinfo.dao.oracle.UserInfoOracleDao;
 
 import java.io.FileInputStream;
 
@@ -13,7 +13,7 @@ import java.util.Properties;
 
 public class UserInfoClient {
     public static void main(String[] args) throws FileNotFoundException {
-        FileInputStream fis = new FileInputStream("ch13/db.properties");
+        FileInputStream fis = new FileInputStream("chapter3/ch13/db.properties");
 
         Properties prop = new Properties();
         try {

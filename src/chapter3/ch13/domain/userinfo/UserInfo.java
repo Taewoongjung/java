@@ -1,4 +1,4 @@
-package ch13.domain.userinfo;
+package chapter3.ch13.domain.userinfo;
 
 public class UserInfo {
 

@@ -1,4 +1,4 @@
-package ch14;
+package chapter3.ch14;
 
 public class CalculatorTest {
     public static void main(String[] args) {
